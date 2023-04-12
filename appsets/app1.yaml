@@ -1,0 +1,5 @@
+name: app1
+releaseName: app1release
+helmPath: helmval
+namespace: app1Namespace
+project: myproj
