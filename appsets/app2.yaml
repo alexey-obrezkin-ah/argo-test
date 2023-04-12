@@ -1,5 +1,5 @@
 name: app2
 releaseName: app2release
-helmPath: helmval
+helmPath: helmval2
 namespace: app2namespace
 project: myproj
